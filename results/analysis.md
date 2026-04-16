@@ -1,15 +1,22 @@
-# Results Analysis
+# Results and Analysis
 
-## Evacuation Capacity
-The system can transport only 16–19 persons per trip.
+## Evacuation Demand
+Total population: 4,556
+
+## Transport Capacity
+16–19 persons per trip
 
 ## Trips Required
-Total trips needed: 240–285
+240–285 trips
 
-## Time Required
-Total evacuation time: 32–38 hours
+## Total Evacuation Time
+32–38 hours
 
 ## Key Insight
-The bottleneck is NOT the road network.
+The bottleneck of the system is NOT the road network.
 
-It is the limited number of rescue vehicles.
+It is the LIMITED NUMBER OF VEHICLES.
+
+## Conclusion
+Even if routes are optimized, evacuation efficiency will not improve
+unless transportation capacity is increased.
