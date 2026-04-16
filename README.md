@@ -1,6 +1,6 @@
-# 🚨 Evacuation Route Optimization (Calumpit)
+# Evacuation Route Optimization (Calumpit)
 
-## 📌 Overview
+## Overview
 This project converts a mathematical modeling paper into a computational system.
 
 It analyzes evacuation routes using:
@@ -8,20 +8,18 @@ It analyzes evacuation routes using:
 - Network Flow (Max Flow)
 - Shortest Path
 
-## 📊 Key Findings
+## Key Findings
 - Population: 4,556
 - Capacity: 16–19 persons
 - Trips: 240–285
 - Time: 32–38 hours
 
-## 🧠 Insight
+## Insight
 Transportation capacity is the main bottleneck.
 
-## 📂 Structure
+## Structure
 - paper/ → Research paper
 - data/ → Edge list
 - model/ → C++ code
 - results/ → Analysis
 
-## 👨‍💻 Authors
-Lycomar De Leon et al.
