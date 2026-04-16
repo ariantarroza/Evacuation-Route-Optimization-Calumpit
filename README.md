@@ -1,25 +1,22 @@
-# Evacuation Route Optimization (Calumpit)
+# Results and Analysis
 
-## Overview
-This project converts a mathematical modeling paper into a computational system.
+## Evacuation Demand
+Total population: 4,556
 
-It analyzes evacuation routes using:
-- Graph Theory
-- Network Flow (Max Flow)
-- Shortest Path
+## Transport Capacity
+16–19 persons per trip
 
-## Key Findings
-- Population: 4,556
-- Capacity: 16–19 persons
-- Trips: 240–285
-- Time: 32–38 hours
+## Trips Required
+240–285 trips
 
-## Insight
-Transportation capacity is the main bottleneck.
+## Total Evacuation Time
+32–38 hours
 
-## Structure
-- paper/ → Research paper
-- data/ → Edge list
-- model/ → C++ code
-- results/ → Analysis
+## Key Insight
+The bottleneck of the system is NOT the road network.
 
+It is the LIMITED NUMBER OF VEHICLES.
+
+## Conclusion
+Even if routes are optimized, evacuation efficiency will not improve
+unless transportation capacity is increased.
