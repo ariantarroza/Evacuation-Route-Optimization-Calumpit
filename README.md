@@ -1,22 +1,42 @@
-# Results and Analysis
+# Evacuation Route Optimization (Calumpit)
 
-## Evacuation Demand
-Total population: 4,556
+## Overview
+This project presents a mathematical model for optimizing evacuation routes in Barangay Corazon, Calumpit.
 
-## Transport Capacity
-16–19 persons per trip
+The system uses:
+- Graph Theory
+- Network Flow (Max Flow)
+- Shortest Path Analysis
 
-## Trips Required
-240–285 trips
+---
 
-## Total Evacuation Time
-32–38 hours
+## Key Results
+
+- Population: 4,556
+- Capacity: 16–19 persons per trip
+- Trips Required: 240–285
+- Evacuation Time: 32–38 hours
+
+---
 
 ## Key Insight
-The bottleneck of the system is NOT the road network.
 
-It is the LIMITED NUMBER OF VEHICLES.
+The main limitation of the system is:
 
-## Conclusion
-Even if routes are optimized, evacuation efficiency will not improve
-unless transportation capacity is increased.
+Transportation Capacity (vehicles)
+
+NOT the road network.
+
+---
+
+## Algorithms Used
+
+- Ford-Fulkerson Method (Max Flow)
+- Shortest Path Analysis
+
+---
+
+## 📍 Description
+
+This repository transforms a mathematical research paper into a computational model,
+demonstrating how graph theory can solve real-world evacuation problems.
